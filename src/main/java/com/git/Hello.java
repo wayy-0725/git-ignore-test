@@ -13,6 +13,5 @@ public class Hello {
         System.out.println("test");
         System.out.println("second");
         System.out.println("hot-fix");
-        System.out.println("hot-fix-test");
     }
 }
