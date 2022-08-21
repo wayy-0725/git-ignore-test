@@ -14,5 +14,6 @@ public class Hello {
         System.out.println("second");
         System.out.println("hot-fix");
         System.out.println("push test");
+        System.out.println("edit in browser");
     }
 }
